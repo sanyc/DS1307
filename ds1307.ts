@@ -9,7 +9,7 @@
  */
 //% weight=20 color=#8010f0 icon="\uf017" block="DS1307"
 namespace DS1307 {
-    let DS1307_I2C_ADDR = 81;
+    let DS1307_I2C_ADDR = 80;
     let DS1307_REG_SECOND = 0
     let DS1307_REG_MINUTE = 1
     let DS1307_REG_HOUR = 2
